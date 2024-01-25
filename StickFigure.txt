@@ -1,0 +1,5 @@
+string1*StickFigure: 'Hi! I am StickFigure'
+string2*StickFigure: 'I am yellow in color'
+string3*StickFigure: 'God has created me this way'
+string4*StickFigure: 'My job is to entertain you guys'
+string5*StickFigure: 'I can perform different duties'
